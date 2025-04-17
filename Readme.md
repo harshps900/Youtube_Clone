@@ -1,4 +1,5 @@
 YouTube Clone
+
 A simple YouTube clone built using HTML, CSS, and JavaScript.
 This project demonstrates API integration (using the YouTube Data API), responsive design, and dynamic content loading — mimicking YouTube's core functionality.
 
@@ -39,7 +40,7 @@ Open index.html in your browser.
 Make sure to replace the placeholder API_KEY in your JavaScript file with your YouTube Data API key.
 
 📸 Screenshots
-![Homepage](./screenshots/homepage.png)
+(./screenshots/homepage.png)
 
 
 ⚙️ Technologies Used
@@ -52,7 +53,7 @@ JavaScript (Fetch API, ES6)
 YouTube Data API v3
 
 🙌 Acknowledgments
-YouTube Data API
+YouTube Data API 
 
 MDN Web Docs
 
